@@ -7,7 +7,7 @@ vector()  --> multiple copies of the same object type
           --> can name elements using name() or vect <- c(foo=11,bar=2,norf=NA)
 
 as.*      --> explicit type conversion
-
+  
 is.na(), is.nan()   --> undefined or missing data values, NA, NaN
                     --> complete.cases() function performs is.* on multiple vectors
 is.element()  --> similar to set containment and python "in" operator.
